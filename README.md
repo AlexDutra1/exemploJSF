@@ -1,0 +1,2 @@
+# exemploJSF
+CRUD JPA 2.2+JSF-BASICO
